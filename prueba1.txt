@@ -1,0 +1,5 @@
+Este es un archivo de prueba. \n
+Mi nombre es Mauricio Cerpa. Tengo 32 años y soy oriundo de la ciudad de Barranquilla, Colombia. \n
+Soy matemático de profesión y actualmente me desempeño como ingeniero de datos en Ubits, una empresa de capacitación empresarial.
+
+Estoy interesado en temas relacionados con los datos, sobretodo en el análisis de datos y en la toma de decisiones.
