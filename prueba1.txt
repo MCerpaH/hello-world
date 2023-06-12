@@ -2,4 +2,7 @@ Este es un archivo de prueba. \n
 Mi nombre es Mauricio Cerpa. Tengo 32 años y soy oriundo de la ciudad de Barranquilla, Colombia. \n
 Soy matemático de profesión y actualmente me desempeño como ingeniero de datos en Ubits, una empresa de capacitación empresarial.
 
-Estoy interesado en temas relacionados con los datos, sobretodo en el análisis de datos y en la toma de decisiones.
+Estoy interesado en temas relacionados con los datos, sobretodo en el análisis de datos y en la toma de decisiones. \n
+Esto es una prueba para estudiar git. \n
+El git reset hard borró lo del stagin. Esta es una prueba para ver si el soft lo borra o lo deja.\n
+En esta nueva linea se planea probar el funcionamiento de las ramas. Se agrega para crear una rama y ver que sucede.
