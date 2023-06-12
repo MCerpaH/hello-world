@@ -8,5 +8,5 @@ El git reset hard borró lo del stagin. Esta es una prueba para ver si el soft l
 En esta nueva linea se planea probar el funcionamiento de las ramas. Se agrega para crear una rama y ver que sucede.\n 
 Ahora que se ha creado la nueva rama llamada test, es momento de hacer un cambio en ella y revisar si realmente no queda en master. Esperen confirmacion.\n 
 La confirmacion es que si sucede lo que esperabamos. Ahora probaremos si no hago commit y me cambio de rama, que sucederia.\n 
-Esta es para ver si no necesito hacer el add.\n 
-Luego de merge agrego esto.
+Esta es para ver si no necesito hacer el add.\n
+Creando conflictos!!
