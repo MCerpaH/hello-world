@@ -5,4 +5,5 @@ Soy matemático de profesión y actualmente me desempeño como ingeniero de dato
 Estoy interesado en temas relacionados con los datos, sobretodo en el análisis de datos y en la toma de decisiones. \n
 Esto es una prueba para estudiar git. \n
 El git reset hard borró lo del stagin. Esta es una prueba para ver si el soft lo borra o lo deja.\n
-En esta nueva linea se planea probar el funcionamiento de las ramas. Se agrega para crear una rama y ver que sucede.
+En esta nueva linea se planea probar el funcionamiento de las ramas. Se agrega para crear una rama y ver que sucede.\n 
+Ahora que se ha creado la nueva rama llamada test, es momento de hacer un cambio en ella y revisar si realmente no queda en master. Esperen confirmacion.
